@@ -1,6 +1,10 @@
-# Connections [![Angular CI](https://github.com/Fat-Frumos/angular-service/actions/workflows/npm.yml/badge.svg)](https://github.com/Fat-Frumos/angular-service/actions/workflows/npm.yml)  
+# Connections  [![Angular CI](https://github.com/Lokankara/Room/actions/workflows/npm.yml/badge.svg)](https://github.com/Lokankara/Room/actions/workflows/npm.yml)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f55f9396-003c-466b-9098-072125dd0c7a/deploy-status)](https://app.netlify.com/sites/melodious-speculoos-0ca61d/deploys)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.4.
+
+## Nest-server [Connections](https://connection-gaj3.onrender.com/)
 
 ## Task [Final task](https://github.com/rolling-scopes-school/tasks/tree/master/tasks/connections)
 

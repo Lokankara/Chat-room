@@ -1,7 +1,9 @@
-[build]
-  publish = "dist"
-  command = "ng build"
 [[redirects]]
   from = "/*"
-  to = "index.html"
+  to = "/index.html"
   status = 200
+
+[build]
+  base = ""
+  command = "ng build"
+  publish = "dist/angular-reddit/browser"
